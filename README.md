@@ -39,4 +39,4 @@ The World University Ranking Dataset is accessible from [Kaggle] (https://www.ka
 
 # Resources
 
-- Tableau link to be provided later. Note: The Tableau storyboard doesn't contain every steps from the analysis. For details on the steps and analysis, please see python scripts. 
+- [THE World Universities Ranking Storyboard](https://public.tableau.com/app/profile/cheng.hee.liew/viz/THEWorldUniversitiesRanking/Story1?publish=yes) Note: The Tableau storyboard doesn't contain every steps from the analysis. For details on the steps and analysis, please see python scripts. 
